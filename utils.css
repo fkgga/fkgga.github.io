@@ -8,6 +8,24 @@
     color: white;
 }
 
+.container {
+    height: 250px;
+    position: relative;
+  }
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.center-text {
+    left: 35%;
+}
+
 .video-container {
     overflow: hidden;
     position: relative;
