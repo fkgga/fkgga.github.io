@@ -1,3 +1,8 @@
+.header-bg {
+    height: 100%;
+    background: linear-gradient(to right, #87d1d7, #8673EB, #e7c6f7);
+}
+
 .bar-purple {
     background-color: #b19cd8;
     color: white;
