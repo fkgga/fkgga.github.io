@@ -4,6 +4,10 @@
     color: white;
 }
 
+.margin-bar {
+    margin-top: 5px;
+}
+
 .bar-purple {
     background-color: #b19cd8;
     color: white;
